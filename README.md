@@ -2,6 +2,8 @@
 
 This repository presents an algorithm for generating synthetic data for classification problems, including tasks involving graphs.
 
+The algorithm is available [here](https://github.com/SFStefenon/SyntheticData4Classification/blob/main/Algorithm_SyntheticData4Classification.ipynb).
+
 ---
 
 Thank you
